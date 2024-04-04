@@ -27,14 +27,17 @@
 }
 .phone{
     display: flex;
+    height:60px ;
 }
 .location{
     display: flex;
     margin-top: 10px;
+    height: 60px;
 }
 .time{
     margin-top: 10px;
     display: flex;
+    height: 60px;
 }
 .logos{
     margin-top: 70px;
